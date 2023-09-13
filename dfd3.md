@@ -4,6 +4,8 @@ A((Inicio))
 B[/Año de nacimiento:/]
 C[\an\]
 D{an>0}
+E[/Año actual:/]
+F[\aa\]
 A --> B
 B --> C
 C --> D
@@ -16,5 +18,5 @@ dfd para calcular tu edad en base a años ingresados
 por teclado
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjE0MTA1MywtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNTA3ODIzODYzLC0yMDg4NzQ2NjEyXX0=
 -->
