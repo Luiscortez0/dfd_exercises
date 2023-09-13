@@ -8,6 +8,6 @@ A --> B
 B --> C
 C --> D
 ```
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc1MDg1NzRdfQ==
+<!--
+dfd para ingresar un valor e imprimirlo
 -->
