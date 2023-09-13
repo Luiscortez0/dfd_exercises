@@ -8,7 +8,8 @@ E[/Año actual:/]
 F[\aa\]
 G{aa>0}
 H[edad=aa-an]
-I[/edad/]
+I[/tienes:,edad/]
+J((Fin))
 
 A --> B
 B --> C
@@ -19,6 +20,8 @@ E --> F
 F --> G
 G --> |no| E
 G --> |si| H
+H --> I
+I --> J
 
 ```
 <!--
@@ -26,5 +29,5 @@ dfd para calcular tu edad en base a años ingresados
 por teclado
 -->
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzY1NzQ1OSwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNDYwOTI4OTgsLTIwODg3NDY2MTJdfQ==
 -->
